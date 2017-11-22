@@ -1,0 +1,3 @@
+rootProject.name = 'ComicReader'
+
+include ':app'
